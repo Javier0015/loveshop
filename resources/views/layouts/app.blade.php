@@ -7,10 +7,8 @@
 
 <head>
     @laravelPWA
-     <!--  
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
--->  
-    
+     <!-- Scripts -->
+  {{--@vite(['resources/sass/app.scss', 'resources/js/app.js'])--}}
 
    
 </head>
